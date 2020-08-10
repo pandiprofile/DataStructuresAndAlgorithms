@@ -55,7 +55,7 @@ namespace DataStructuresAndAlgorithms
     }
 
 
-    public class KPMGTest
+    public class DocumentProcessorExercise
     {
         public void ClassEntry()
         {

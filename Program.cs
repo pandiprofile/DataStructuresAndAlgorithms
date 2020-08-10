@@ -6,7 +6,7 @@ namespace DataStructuresAndAlgorithms
     {
         static void Main(string[] args)
         {
-            KPMGTest Obj = new KPMGTest();
+            DocumentProcessorExercise Obj = new DocumentProcessorExercise();
             Obj.ClassEntry();
 
             //InterviewQuestions Obj = new InterviewQuestions();

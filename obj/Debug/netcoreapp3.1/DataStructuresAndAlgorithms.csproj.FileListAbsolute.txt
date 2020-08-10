@@ -1,0 +1,11 @@
+C:\workout\github\DataStructuresAndAlgorithms\bin\Debug\netcoreapp3.1\DataStructuresAndAlgorithms.exe
+C:\workout\github\DataStructuresAndAlgorithms\bin\Debug\netcoreapp3.1\DataStructuresAndAlgorithms.deps.json
+C:\workout\github\DataStructuresAndAlgorithms\bin\Debug\netcoreapp3.1\DataStructuresAndAlgorithms.runtimeconfig.json
+C:\workout\github\DataStructuresAndAlgorithms\bin\Debug\netcoreapp3.1\DataStructuresAndAlgorithms.runtimeconfig.dev.json
+C:\workout\github\DataStructuresAndAlgorithms\bin\Debug\netcoreapp3.1\DataStructuresAndAlgorithms.dll
+C:\workout\github\DataStructuresAndAlgorithms\bin\Debug\netcoreapp3.1\DataStructuresAndAlgorithms.pdb
+C:\workout\github\DataStructuresAndAlgorithms\obj\Debug\netcoreapp3.1\DataStructuresAndAlgorithms.csprojAssemblyReference.cache
+C:\workout\github\DataStructuresAndAlgorithms\obj\Debug\netcoreapp3.1\DataStructuresAndAlgorithms.AssemblyInfoInputs.cache
+C:\workout\github\DataStructuresAndAlgorithms\obj\Debug\netcoreapp3.1\DataStructuresAndAlgorithms.AssemblyInfo.cs
+C:\workout\github\DataStructuresAndAlgorithms\obj\Debug\netcoreapp3.1\DataStructuresAndAlgorithms.dll
+C:\workout\github\DataStructuresAndAlgorithms\obj\Debug\netcoreapp3.1\DataStructuresAndAlgorithms.pdb
